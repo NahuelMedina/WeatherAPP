@@ -1,0 +1,14 @@
+#root {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  text-align: center;
+}
+
+.logoStyle {
+  color: rgb(2 132 199);
+  font-size: 1.1rem;
+}
